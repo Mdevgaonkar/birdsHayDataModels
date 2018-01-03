@@ -1,6 +1,6 @@
 {
     "userid":"User Id from users",
-    "aboutMe":"Text",
+    "bio":"Text 420 characters aboutMe",
     "contactNumber":"Text + countryCode 10 digit number ",
     "dateOfBirth":"Date",
     "gender":"male | female | other | Rather Not Say",
