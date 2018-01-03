@@ -1,0 +1,26 @@
+{
+    "userid":"User Id from users",
+    "aboutMe":"Text",
+    "contactNumber":"Text + countryCode 10 digit number ",
+    "dateOfBirth":"Date",
+    "gender":"male | female | other | Rather Not Say",
+    "socialProfiles":[
+        {
+            "platform":"facebook | instagram | twitter | snapchat | youtube | quora | blog | github | behance | dribble | linkedin | wikipedia | other",
+            "link":"url text /*note : any platform can be linked only once*/"
+        }
+    ],
+    "education":[
+        {
+            "level":"School | High School | Junior College | Degree College | Post Graduation | Diploma | Ph.D | Certification/Professional Courses ",
+            "insitituteName":"Name of School/College/institute/organization",
+            "board":"Name of board/university",
+            "startYear":"Year of commencement",
+            "endYear":"Year of completion",
+            "current":"true | false | not applicable if endYear is mentioned(i.e if current is true, endYear must be null)",
+            "scoreUnits":"Percent(decimal input) | Grade(Alphabetical input only capital) | Grade Points(decimal input) | Class(should have only 3 oftions 1st, 2nd & 3rd)",
+            "score":"Text can consist digits or Text based on scoreUnits",
+            "stream":"Text , applicable only from Junior college level"
+        }
+    ]
+}
