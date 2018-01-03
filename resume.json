@@ -49,6 +49,13 @@
             ],
             "organisation":"text name of the related organiztion/publisher if any(optional)" 
         }
+    ],
+    "achievement":[
+        {
+            "title":"text title of the achievement",
+            "issuer":"text name of organization/competition/authority",
+            "date":"MON/YYYY when was it awarded/achieved"
+        }
     ]
 
 }
