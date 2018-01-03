@@ -6,7 +6,7 @@
     "gender":"male | female | other | Rather Not Say",
     "socialProfiles":[
         {
-            "platform":"facebook | instagram | twitter | snapchat | youtube | quora | blog | github | behance | dribble | linkedin | wikipedia | other",
+            "platform":" My Website | facebook | instagram | twitter | snapchat | youtube | quora | blog | github | behance | dribble | linkedin | wikipedia | other",
             "link":"url text /*note : any platform can be linked only once*/"
         }
     ],
@@ -16,11 +16,39 @@
             "insitituteName":"Name of School/College/institute/organization",
             "board":"Name of board/university",
             "startYear":"Year of commencement",
-            "endYear":"Year of completion",
+            "endYear":"YYYY Year of completion",
             "current":"true | false | not applicable if endYear is mentioned(i.e if current is true, endYear must be null)",
             "scoreUnits":"Percent(decimal input) | Grade(Alphabetical input only capital) | Grade Points(decimal input) | Class(should have only 3 oftions 1st, 2nd & 3rd)",
             "score":"Text can consist digits or Text based on scoreUnits",
             "stream":"Text , applicable only from Junior college level"
         }
+    ],
+    "wrkExprnc":[
+        {
+            "organisation":"text name of the organiztion",
+            "jobTitle":"text designation",
+            "workDscrptn":"text description of the nature of job",
+            "startDate":"MON/YYYY",
+            "endDate":"MON/YYYY",
+            "current":"true | false | not applicable if endDate is mentioned(i.e if current is true, endDate must be null)"
+        }
+    ],
+    "projects":[
+        {
+            "title":"text title of the project",
+            "stream":"text generalised line of work involved in the project",
+            "dscrptn":"text description of the project",
+            "year":"YYYY Year when project was undertaken",
+            "current":"true | false ",
+            "projUrl":"url link of the project website or resources or products",
+            "collaborator":[
+                {
+                    "role":"text role of this user",
+                    "userId":"UserId from users"
+                }
+            ],
+            "organisation":"text name of the related organiztion/publisher if any(optional)" 
+        }
     ]
+
 }
