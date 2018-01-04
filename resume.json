@@ -12,7 +12,7 @@
     ],
     "education":[
         {
-            "level":"School | High School | Junior College | Degree College | Post Graduation | Diploma | Ph.D | Certification/Professional Courses ",
+            "level":"School | High School/Junior College | Degree College | Post Graduation | Diploma | Ph.D | Certification/Professional Courses ",
             "insitituteName":"Name of School/College/institute/organization",
             "board":"Name of board/university",
             "startYear":"Year of commencement",
@@ -54,7 +54,15 @@
         {
             "title":"text title of the achievement",
             "issuer":"text name of organization/competition/authority",
-            "date":"MON/YYYY when was it awarded/achieved"
+            "date":"MON/YYYY when was it awarded/achieved",
+            "dscrptn":"text description of the achievment"
+        }
+    ],
+    "hobbies":["array", "of strings", "50 chars max","list of hobbies"],
+    "skills":[
+        {
+            "skillName":"text name of skill 20 chars max",
+            "rating":"0-5"
         }
     ]
 
