@@ -1,8 +1,8 @@
 {
     "userid":"User Id from users",
-    "bio":"Text 420 characters aboutMe",
+    "bio":"Text 420 characters max aboutMe",
     "contactNumber":"Text + countryCode 10 digit number ",
-    "dateOfBirth":"Date",
+    "dateOfBirth":"DD/MM/YYYY",
     "gender":"male | female | other | Rather Not Say",
     "socialProfiles":[
         {
@@ -13,52 +13,56 @@
     "education":[
         {
             "level":"School | High School/Junior College | Degree College | Post Graduation | Diploma | Ph.D | Certification/Professional Courses ",
-            "insitituteName":"Name of School/College/institute/organization",
-            "board":"Name of board/university",
+            "insitituteName":"Name of School/College/institute/organization max 60 charachters",
+            "board":"Name of board/university max 60 charachters",
             "startYear":"Year of commencement",
             "endYear":"YYYY Year of completion",
-            "current":"true | false | not applicable if endYear is mentioned(i.e if current is true, endYear must be null)",
-            "scoreUnits":"Percent(decimal input) | Grade(Alphabetical input only capital) | Grade Points(decimal input) | Class(should have only 3 oftions 1st, 2nd & 3rd)",
-            "score":"Text can consist digits or Text based on scoreUnits",
-            "stream":"Text , applicable only from Junior college level"
+            "current":"true | false < not applicable if endYear is mentioned(i.e if current is true, endYear must be null)>",
+            "scoreUnit":"Percent(decimal input maxlength 6 <including decimal point>) 
+                        | Grade(Alphabetical input only capital maxlength 2) 
+                        | Grade Points(decimal input maxlength 5 <including decimal point>) 
+                        | Class(should have only 3 options 1st, 2nd & 3rd)",
+            "score":"Text can consist digits or Text based on scoreUnits <maxlength and inputType to be followed according to scoreUnit>",
+            "stream":"Text , applicable only from Junior college level max 60 charachters"
         }
     ],
     "wrkExprnc":[
         {
-            "organisation":"text name of the organiztion",
-            "jobTitle":"text designation",
-            "workDscrptn":"text description of the nature of job",
+            "organisation":"text name of the organiztion max 60 charachters ",
+            "jobTitle":"text designation max 60 charachters",
+            "workDscrptn":"text description of the nature of job max 240 charachters",
             "startDate":"MON/YYYY",
             "endDate":"MON/YYYY",
-            "current":"true | false | not applicable if endDate is mentioned(i.e if current is true, endDate must be null)"
+            "current":"true | false < not applicable if endDate is mentioned(i.e if current is true, endDate must be null)>"
         }
     ],
     "projects":[
         {
-            "title":"text title of the project",
-            "stream":"text generalised line of work involved in the project",
-            "dscrptn":"text description of the project",
+            "title":"text title of the project max 120 charachters",
+            "stream":"text generalised line of work involved in the project max 60 charachters",
+            "dscrptn":"text description of the project max 240 charachters",
             "year":"YYYY Year when project was undertaken",
             "current":"true | false ",
             "projUrl":"url link of the project website or resources or products",
             "collaborator":[
                 {
-                    "role":"text role of this user",
+                    "role":"text role of this user max 20 charachters",
                     "userId":"UserId from users"
                 }
             ],
-            "organisation":"text name of the related organiztion/publisher if any(optional)" 
+            "organisation":"text name of the related organiztion/publisher if any(optional) max 60 charachters " 
         }
     ],
     "achievement":[
         {
-            "title":"text title of the achievement",
-            "issuer":"text name of organization/competition/authority",
+            "title":"text title of the achievement max 50 charachters",
+            "issuer":"text name of organization/competition/authority max 50 charachters",
             "date":"MON/YYYY when was it awarded/achieved",
-            "dscrptn":"text description of the achievment"
+            "url":"link to authentic site  where this achievment is listed",
+            "dscrptn":"text description of the achievment maxl 240 charachters"
         }
     ],
-    "hobbies":["array", "of strings", "50 chars max","list of hobbies"],
+    "hobbies":["array", "of strings", "50 chars max each string","list of hobbies"],
     "skills":[
         {
             "skillName":"text name of skill 20 chars max",
