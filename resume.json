@@ -4,6 +4,8 @@
     "contactNumber":"Text + countryCode 10 digit number ",
     "dateOfBirth":"DD/MM/YYYY",
     "gender":"male | female | other | Rather Not Say",
+    "email":"Email of user",
+    "userPicUrl":"http:// link to the photo file of user <fileNameFormat: userid_timestamp>",
     "socialProfiles":[
         {
             "platform":" My Website | facebook | instagram | twitter | snapchat | youtube | quora | blog | github | behance | dribble | linkedin | wikipedia | other",
