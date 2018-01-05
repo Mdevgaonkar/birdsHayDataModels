@@ -8,4 +8,6 @@ Notations:
 objects seperated by | (pipe) represent options that will be available in the dropdown for that parmeter
 
 Data models for Mongo documents
--resume.json : all profile related information will be uploaded and maintained in this format.
+-resume.json : all user profile related information will be uploaded and maintained in this format.
+-organisation.json :all company/organisation/institute related information will be uploaded and maintained in this format.
+-skills.json : all new skills will be added in this array and will be linked to the companies as required.

@@ -1,0 +1,130 @@
+[{
+    "category":"General",
+    "skills":[
+        "Communication Skill",     
+        "Presentation Skill",     
+        "Leadership",     
+        "Entrepreneurial",     
+        "HR",     
+        "Analytical Skills",     
+        "Negotiation Skills",     
+        "Organizational Skills",     
+        "Quantitative Aptitude",     
+        "Logical reasoning",     
+        "Research",     
+        "Team Player"
+    ]
+},
+{
+    "category":"Technical",
+    "skills":[
+        "Computer Hardware",
+        "Networking",
+        "C",
+        "C++",     
+        "Java",     
+        "Javascript",     
+        "JS Node",     
+        "Node.JS",     
+        "Angular JS",     
+        "MySQL",     
+        "PHP",     
+        "Network Management",     
+        "Backend Development",     
+        "HTML",     
+        "CSS",     
+        "Front End Development",     
+        "Robotics",     
+        "Ethical Hacking",     
+        "Android Dev",     
+        "iOS Dev",     
+        "Ajax",     
+        "Wordpress",
+        "Github"
+    ]
+},
+{
+    "category":"Design Softwares",
+    "skills":[
+        "Adobe Photoshop",     
+        "Adobe Illustrator",     
+        "Corel Draw",     
+        "InDesign",     
+        "Adobe Premiere",     
+        "Adobe After Effects",     
+        "Final Cut Pro",     
+        "Flash",     
+        "Animation",     
+        "Graphic Design",     
+        "Photo Editing",     
+        "Video Editing",     
+        "SEO/SEM",     
+        "Autocad"
+    ]
+},
+{
+    "category":"Finance",
+    "skills":[
+        "Accounting",     
+        "Tally",     
+        "Financial Analysis",     
+        "Fund Raising",     
+        "Stock Market",     
+        "Taxation"
+    ]
+},
+{
+    "category":"Marketing",
+    "skills":[
+        "Advertising",     
+        "Content Writing",     
+        "Content Planning",     
+        "Social Media Advertising",     
+        "Marketing",     
+        "Photography",     
+        "PR Skills",     
+        "Publicity",     
+        "Creativity",     
+        "Sales",     
+        "Copy Writing",     
+        "Blogger"
+    ]
+},
+{
+    "category":"Office",
+    "skills":[
+        "Microsoft Office",     
+        "Microsoft Excel",     
+        "Microsoft Word",     
+        "Microsoft Access",     
+        "Powerpoint",     
+        "MS Office"
+    ]
+},
+{
+    "category":"Other",
+    "skills":[
+        "Data Entry",     
+        "Import and Export",     
+        "Journalism",     
+        "Architecture",     
+        "Interior Design"
+    ]
+},
+{
+    
+    "category":"Hospitality",
+    "skills":[
+        "Event Management",     
+        "Hotel Management"
+    ]
+},
+{
+    "category":"Legal",
+    "skills":[
+        "Intellectual Property Rights",     
+        "Law",     
+        "Business Law"
+    ]
+}
+]
