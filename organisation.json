@@ -1,0 +1,20 @@
+{
+    "orgId":"unique Organisation Id",
+    "url":"link to company website",
+    "locationCity":"City",
+    "locationState":"State",
+    "locationCountry":"Country",
+    "cntctEmail":"Email for general purpose contact",
+    "cntctNumber":"Contact number for direct contact",
+    "descrptn":"text max 420 characters company/organization description",
+    "organizationLogoUrl":"link to file for organisation logo <fileNameFormat: orgId_timestamp.jpeg/png>",
+    "verifiedFlag":" unverified | rejected | verified ",
+    "orgAdmins":[
+        {
+            "orgAdminId":"User Id for admin of organisation",
+            "orgAdminEmailId":"Email",
+            "orgAdminPassword":"Password encrypted/hashed",
+            "role":"text admin role max 50 charachters"
+        }
+    ]    
+}
