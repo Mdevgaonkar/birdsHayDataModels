@@ -1,5 +1,7 @@
 {
     "userid":"User Id from users",
+    "updateDt":"DD/MM/YYYY last update date of document",
+    "name": "Text maxlength 70 charachters",
     "bio":"Text 420 characters max aboutMe",
     "contactNumber":"Text + countryCode 10 digit number ",
     "dateOfBirth":"DD/MM/YYYY",

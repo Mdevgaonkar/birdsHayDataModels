@@ -1,8 +1,11 @@
 {
-    "userid":"User Id from users",
-    "token":"",
+    "userid":"uniqueid provided during oAuth",
+    "token":"provided during oAuth",
     "loginType":"local | facebook | google",
-    "email":"",
-    "firstName":"",
-    "lastName":""
+    "email":"email",
+    "name":"text maxlength 70",
+    "userPicUrl":"http:// link to the photo file of user <fileNameFormat if file is stored on our servers: userid_timestamp.jpeg>",
+    "lastLogin":"timestamp when the last login happened",
+    "joinDate":"timestamp when user signs up",
+    "emailVerified":"true | false <not applicable for fb and google logins>"
 }
