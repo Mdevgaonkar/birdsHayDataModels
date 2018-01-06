@@ -67,7 +67,8 @@
     "hobbies":["array", "of strings", "50 chars max each string","list of hobbies"],
     "skills":[
         {
-            "skillName":"text name of skill 20 chars max",
+            "skillCat":"category of skill from the skills.json array",
+            "skillName":"name of skill from the skills.json array",
             "rating":"0-5"
         }
     ]
