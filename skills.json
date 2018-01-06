@@ -1,130 +1,333 @@
 [{
-    "category":"General",
-    "skills":[
-        "Communication Skill",     
-        "Presentation Skill",     
-        "Leadership",     
-        "Entrepreneurial",     
-        "HR",     
-        "Analytical Skills",     
-        "Negotiation Skills",     
-        "Organizational Skills",     
-        "Quantitative Aptitude",     
-        "Logical reasoning",     
-        "Research",     
-        "Team Player"
-    ]
-},
-{
-    "category":"Technical",
-    "skills":[
-        "Computer Hardware",
-        "Networking",
-        "C",
-        "C++",     
-        "Java",     
-        "Javascript",     
-        "JS Node",     
-        "Node.JS",     
-        "Angular JS",     
-        "MySQL",     
-        "PHP",     
-        "Network Management",     
-        "Backend Development",     
-        "HTML",     
-        "CSS",     
-        "Front End Development",     
-        "Robotics",     
-        "Ethical Hacking",     
-        "Android Dev",     
-        "iOS Dev",     
-        "Ajax",     
-        "Wordpress",
-        "Github"
-    ]
-},
-{
-    "category":"Design Softwares",
-    "skills":[
-        "Adobe Photoshop",     
-        "Adobe Illustrator",     
-        "Corel Draw",     
-        "InDesign",     
-        "Adobe Premiere",     
-        "Adobe After Effects",     
-        "Final Cut Pro",     
-        "Flash",     
-        "Animation",     
-        "Graphic Design",     
-        "Photo Editing",     
-        "Video Editing",     
-        "SEO/SEM",     
-        "Autocad"
-    ]
-},
-{
-    "category":"Finance",
-    "skills":[
-        "Accounting",     
-        "Tally",     
-        "Financial Analysis",     
-        "Fund Raising",     
-        "Stock Market",     
-        "Taxation"
-    ]
-},
-{
-    "category":"Marketing",
-    "skills":[
-        "Advertising",     
-        "Content Writing",     
-        "Content Planning",     
-        "Social Media Advertising",     
-        "Marketing",     
-        "Photography",     
-        "PR Skills",     
-        "Publicity",     
-        "Creativity",     
-        "Sales",     
-        "Copy Writing",     
-        "Blogger"
-    ]
-},
-{
-    "category":"Office",
-    "skills":[
-        "Microsoft Office",     
-        "Microsoft Excel",     
-        "Microsoft Word",     
-        "Microsoft Access",     
-        "Powerpoint",     
-        "MS Office"
-    ]
-},
-{
-    "category":"Other",
-    "skills":[
-        "Data Entry",     
-        "Import and Export",     
-        "Journalism",     
-        "Architecture",     
-        "Interior Design"
-    ]
-},
-{
-    
-    "category":"Hospitality",
-    "skills":[
-        "Event Management",     
-        "Hotel Management"
-    ]
-},
-{
-    "category":"Legal",
-    "skills":[
-        "Intellectual Property Rights",     
-        "Law",     
-        "Business Law"
-    ]
-}
+        "category": "General",
+        "skill": "Communication Skill"
+    },
+    {
+        "category": "General",
+        "skill": "Presentation Skill"
+    },
+    {
+        "category": "General",
+        "skill": "Leadership"
+    },
+    {
+        "category": "General",
+        "skill": "Entrepreneurial"
+    },
+    {
+        "category": "General",
+        "skill": "HR"
+    },
+    {
+        "category": "General",
+        "skill": "Analytical skill"
+    },
+    {
+        "category": "General",
+        "skill": "Negotiation skill"
+    },
+    {
+        "category": "General",
+        "skill": "Organizational skill"
+    },
+    {
+        "category": "General",
+        "skill": "Quantitative Aptitude"
+    },
+    {
+        "category": "General",
+        "skill": "Logical reasoning"
+    },
+    {
+        "category": "General",
+        "skill": "Research"
+    },
+    {
+        "category": "General",
+        "skill": "Team Player"
+    },
+    {
+        "category": "Technical",
+        "skill": "Computer Hardware"
+    },
+    {
+        "category": "Technical",
+        "skill": "Networking"
+    },
+    {
+        "category": "Technical",
+        "skill": "C"
+    },
+    {
+        "category": "Technical",
+        "skill": "C++"
+    },
+    {
+        "category": "Technical",
+        "skill": "Java"
+    },
+    {
+        "category": "Technical",
+        "skill": "Javascript"
+    },
+    {
+        "category": "Technical",
+        "skill": "JS Node"
+    },
+    {
+        "category": "Technical",
+        "skill": "Node.JS"
+    },
+    {
+        "category": "Technical",
+        "skill": "Angular JS"
+    },
+    {
+        "category": "Technical",
+        "skill": "MySQL"
+    },
+    {
+        "category": "Technical",
+        "skill": "PHP"
+    },
+    {
+        "category": "Technical",
+        "skill": "Network Management"
+    },
+    {
+        "category": "Technical",
+        "skill": "Backend Development"
+    },
+    {
+        "category": "Technical",
+        "skill": "HTML"
+    },
+    {
+        "category": "Technical",
+        "skill": "CSS"
+    },
+    {
+        "category": "Technical",
+        "skill": "Front End Development"
+    },
+    {
+        "category": "Technical",
+        "skill": "Robotics"
+    },
+    {
+        "category": "Technical",
+        "skill": "Ethical Hacking"
+    },
+    {
+        "category": "Technical",
+        "skill": "Android Dev"
+    },
+    {
+        "category": "Technical",
+        "skill": "iOS Dev"
+    },
+    {
+        "category": "Technical",
+        "skill": "Ajax"
+    },
+    {
+        "category": "Technical",
+        "skill": "Wordpress"
+    },
+    {
+        "category": "Technical",
+        "skill": "Github"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Adobe Photoshop"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Adobe Illustrator"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Corel Draw"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "InDesign"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Adobe Premiere"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Adobe After Effects"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Final Cut Pro"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Flash"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Animation"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Graphic Design"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Photo Editing"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Video Editing"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "SEO/SEM"
+    },
+    {
+        "category": "Design Softwares",
+        "skill": "Autocad"
+    },
+    {
+        "category": "Finance",
+        "skill": "Accounting"
+    },
+    {
+        "category": "Finance",
+        "skill": "Tally"
+    },
+    {
+        "category": "Finance",
+        "skill": "Financial Analysis"
+    },
+    {
+        "category": "Finance",
+        "skill": "Fund Raising"
+    },
+    {
+        "category": "Finance",
+        "skill": "Stock Market"
+    },
+    {
+        "category": "Finance",
+        "skill": "Taxation"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Advertising"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Content Writing"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Content Planning"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Social Media Advertising"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Marketing"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Photography"
+    },
+    {
+        "category": "Marketing",
+        "skill": "PR skill"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Publicity"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Creativity"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Sales"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Copy Writing"
+    },
+    {
+        "category": "Marketing",
+        "skill": "Blogger"
+    },
+    {
+        "category": "Office",
+        "skill": "Microsoft Office"
+    },
+    {
+        "category": "Office",
+        "skill": "Microsoft Excel"
+    },
+    {
+        "category": "Office",
+        "skill": "Microsoft Word"
+    },
+    {
+        "category": "Office",
+        "skill": "Microsoft Access"
+    },
+    {
+        "category": "Office",
+        "skill": "Powerpoint"
+    },
+    {
+        "category": "Office",
+        "skill": "MS Office"
+    },
+    {
+        "category": "Other",
+        "skill": "Data Entry"
+    },
+    {
+        "category": "Other",
+        "skill": "Import and Export"
+    },
+    {
+        "category": "Other",
+        "skill": "Journalism"
+    },
+    {
+        "category": "Other",
+        "skill": "Architecture"
+    },
+    {
+        "category": "Other",
+        "skill": "Interior Design"
+    },
+    {
+        "category": "Hospitality",
+        "skill": "Event Management"
+    },
+    {
+        "category": "Hospitality",
+        "skill": "Hotel Management"
+    },
+    {
+        "category": "Legal",
+        "skill": "Intellectual Property Rights"
+    },
+    {
+        "category": "Legal",
+        "skill": "Law"
+    },
+    {
+        "category": "Legal",
+        "skill": "Business Law"
+    }
 ]
