@@ -13,3 +13,5 @@ Data models for Mongo documents
 -organisation.json :all company/organisation/institute related information will be uploaded and maintained in this format.
 
 -skills.json : all new skills will be added in this array and will be linked to the companies as required.\n
+
+-users.json
