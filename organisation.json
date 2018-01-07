@@ -6,7 +6,7 @@
     "locationCountry":"Country",
     "cntctEmail":"Email for general purpose contact",
     "cntctNumber":"Contact number for direct contact",
-    "descrptn":"text max 420 characters company/organization description",
+    "descrptn":"text max 1000 characters company/organization description",
     "organizationLogoUrl":"link to file for organisation logo <fileNameFormat: orgId_timestamp.jpeg/png>",
     "verifiedFlag":" unverified | rejected | verified ",
     "orgAdmins":[
