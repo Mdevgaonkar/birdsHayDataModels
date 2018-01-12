@@ -8,10 +8,16 @@
     "gender":"male | female | other | Rather Not Say",
     "email":"Email of user",
     "userPicUrl":"http:// link to the photo file of user <fileNameFormat: userid_timestamp>",
-    "city":{
+    "currentCity":{
         "state":"Name of state for city from cities.json",
-        "City":"Name of city from cities.json"
+        "city":"Name of city from cities.json"
     },
+    "preferedCities":[
+        {
+            "state":"Name of state for city from cities.json",
+            "city":"Name of city from cities.json"
+        }   
+    ],
     "socialProfiles":[
         {
             "platform":" My Website | facebook | instagram | twitter | snapchat | youtube | quora | blog | github | behance | dribble | linkedin | wikipedia | other",
