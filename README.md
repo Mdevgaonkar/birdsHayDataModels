@@ -12,4 +12,7 @@ Data models for Mongo documents
 - resume.json : All user profile related information will be uploaded and maintained in this format. Resume is created when user adds any extra information apart from users.json paramerters.
 - organisation.json :All company/organisation/institute related information will be uploaded and maintained in this format.
 - skills.json : all new skills will be added in this array and will be linked to the companies as required.\n
+- cities.json : lookup array for all cities in india.
+- states.json : lookup array for all states. used cities directly instead.
+
 
