@@ -1,7 +1,12 @@
 [
 {
-    "level":"School | High School/Junior College | Degree College | Post Graduation | Diploma | Ph.D | Certification/Professional Courses ",
-    "degreeType":"",
-    "spec":""
+    "level":" 10th | 12th | Diploma | Graduation | Post Graduation | Ph.D | Certification/Professional Courses ",
+    "degreeType":"only applicable for Diploma and post 12th levels",
+    "spec":"",
+    "insitituteName":"Name of School/College/institute/organization max 60 charachters",
+    "university":"Name of board/university max 60 charachters",
+    "medium":"ENGLISH | HINDI | MARATHI"
 }
 ]
+
+
