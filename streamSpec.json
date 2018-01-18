@@ -1,0 +1,549 @@
+[{
+    "course": "Not Pursuing Graduation",
+    "spec": "Not Pursuing Graduation",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Arts&amp;Humanities",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Communication",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Economics",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "English",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Film",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Fine Arts",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Hindi",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "History",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Journalism",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Maths",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Pass Course",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Political Science",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "PR/Advertising",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Psychology",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Sanskrit",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Sociology",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Statistics",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Vocational Course",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Hotel Management",
+    "level": "UG"
+}, {
+    "course": "B.A",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.Arch",
+    "spec": "Architecture",
+    "level": "UG"
+}, {
+    "course": "B.Arch",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.Des.",
+    "spec": "Animation Film Design",
+    "level": "UG"
+}, {
+    "course": "B.Des.",
+    "spec": "Ceramic and Glass Design",
+    "level": "UG"
+}, {
+    "course": "B.Des.",
+    "spec": "Exhibition Design",
+    "level": "UG"
+}, {
+    "course": "B.Des.",
+    "spec": "Film and Video Communication",
+    "level": "UG"
+}, {
+    "course": "B.Des.",
+    "spec": "Textile Design",
+    "level": "UG"
+}, {
+    "course": "B.Des.",
+    "spec": "Furniture Design",
+    "level": "UG"
+}, {
+    "course": "B.Des.",
+    "spec": "Product Design",
+    "level": "UG"
+}, {
+    "course": "B.Des.",
+    "spec": "Graphic Design",
+    "level": "UG"
+}, {
+    "course": "B.Des.",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.El.Ed",
+    "spec": "Elementary Education",
+    "level": "UG"
+}, {
+    "course": "B.El.Ed",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.P.Ed",
+    "spec": "Physical Education",
+    "level": "UG"
+}, {
+    "course": "B.P.Ed",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.U.M.S",
+    "spec": "Unani Medicine",
+    "level": "UG"
+}, {
+    "course": "B.U.M.S",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "BAMS",
+    "spec": "Ayurveda",
+    "level": "UG"
+}, {
+    "course": "BAMS",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "BCA",
+    "spec": "Computers",
+    "level": "UG"
+}, {
+    "course": "BCA",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.B.A/ B.M.S",
+    "spec": "Management",
+    "level": "UG"
+}, {
+    "course": "B.B.A/ B.M.S",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.Com",
+    "spec": "Commerce",
+    "level": "UG"
+}, {
+    "course": "B.Com",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.Ed",
+    "spec": "Education",
+    "level": "UG"
+}, {
+    "course": "B.Ed",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "BDS",
+    "spec": "Dentistry",
+    "level": "UG"
+}, {
+    "course": "BDS",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "BFA",
+    "spec": "Painting",
+    "level": "UG"
+}, {
+    "course": "BFA",
+    "spec": "Sculpture",
+    "level": "UG"
+}, {
+    "course": "BFA",
+    "spec": "Art History",
+    "level": "UG"
+}, {
+    "course": "BFA",
+    "spec": "Printmaking",
+    "level": "UG"
+}, {
+    "course": "BFA",
+    "spec": "Visual Communication",
+    "level": "UG"
+}, {
+    "course": "BFA",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "BHM",
+    "spec": "Hotel Management",
+    "level": "UG"
+}, {
+    "course": "BHM",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.Pharma",
+    "spec": "Pharmacy",
+    "level": "UG"
+}, {
+    "course": "B.Pharma",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Agriculture",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Anthropology",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Bio-Chemistry",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Biology",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Botany",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Chemistry",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Computers",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Dairy Technology",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Electronics",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Environmental science",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Food Technology",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Geology",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Home science",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Maths",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Microbiology",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Nursing",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Physics",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Statistics",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Zoology",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "General",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Hospitality and Hotel Management",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Optometry",
+    "level": "UG"
+}, {
+    "course": "B.Sc",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Agriculture",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Automobile",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Aviation",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Bio-Chemistry/Bio-Technology",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Biomedical",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Ceramics",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Chemical",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Civil",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Computers",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Electrical",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Electronics/Telecommunication",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Energy",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Environmental",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Instrumentation",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Marine",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Mechanical",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Metallurgy",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Mineral",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Mining",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Nuclear",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Paint/Oil",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Petroleum",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Plastics",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Production/Industrial",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Textile",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Other Engineering",
+    "level": "UG"
+}, {
+    "course": "B.Tech/B.E.",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "BHMS",
+    "spec": "Homeopathy",
+    "level": "UG"
+}, {
+    "course": "BHMS",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "LLB",
+    "spec": "Law",
+    "level": "UG"
+}, {
+    "course": "LLB",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "MBBS",
+    "spec": "Medicine",
+    "level": "UG"
+}, {
+    "course": "MBBS",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "Diploma",
+    "spec": "Architecture",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Chemical",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Civil",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Computers",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Electrical",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Electronics/Telecommunication",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Engineering",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Export/Import",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Fashion Designing/Other Designing",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Graphic/ Web Designing",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Hotel Management",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Insurance",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Management",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Mechanical",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Tourism",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Visual Arts",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Vocational Course",
+    "level": "Diploma"
+}, {
+    "course": "Diploma",
+    "spec": "Other",
+    "level": "Diploma"
+}, {
+    "course": "BVSC",
+    "spec": "Veterinary Science",
+    "level": "UG"
+}, {
+    "course": "BVSC",
+    "spec": "Other",
+    "level": "UG"
+}, {
+    "course": "Other",
+    "spec": "other",
+    "level": "UG"
+}]

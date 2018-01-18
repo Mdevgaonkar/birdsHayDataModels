@@ -1,88 +1,78 @@
 {
-    "userid":"User Id from users",
-    "updateDt":"DD/MM/YYYY last update date of document",
+    "userid": "User Id from users",
+    "updateDt": "DD/MM/YYYY last update date of document",
     "name": "Text maxlength 70 charachters",
-    "bio":"Text 420 characters max aboutMe",
-    "contactNumber":"Text + countryCode 10 digit number ",
-    "dateOfBirth":"DD/MM/YYYY",
-    "gender":"male | female | other | Rather Not Say",
-    "email":"Email of user",
-    "userPicUrl":"http:// link to the photo file of user <fileNameFormat: userid_timestamp>",
-    "currentCity":{
-        "state":"Name of state for city from cities.json",
-        "city":"Name of city from cities.json"
+    "bio": "Text 420 characters max aboutMe",
+    "contactNumber": "Text + countryCode 10 digit number ",
+    "dateOfBirth": "DD/MM/YYYY",
+    "gender": "male | female | other | Rather Not Say",
+    "email": "Email of user",
+    "userPicUrl": "http:// link to the photo file of user <fileNameFormat: userid_timestamp>",
+    "currentCity": {
+        "state": "Name of state for city from cities.json",
+        "city": "Name of city from cities.json"
     },
-    "preferedCities":[
-        {
-            "state":"Name of state for city from cities.json",
-            "city":"Name of city from cities.json"
-        }   
-    ],
-    "socialProfiles":[
-        {
-            "platform":" My Website | facebook | instagram | twitter | snapchat | youtube | quora | blog | github | behance | dribble | linkedin | wikipedia | other",
-            "link":"url text /*note : any platform can be linked only once*/"
-        }
-    ],
-    "education":[
-        {
-            "level":"School | High School/Junior College | Degree College | Post Graduation | Diploma | Ph.D | Certification/Professional Courses ",
-            "insitituteName":"Name of School/College/institute/organization max 60 charachters",
-            "board":"Name of board/university max 60 charachters",
-            "startYear":"Year of commencement",
-            "endYear":"YYYY Year of completion",
-            "current":"true | false < not applicable if endYear is mentioned(i.e if current is true, endYear must be null)>",
-            "scoreUnit":"Percent(decimal input maxlength 6 <including decimal point>) 
-                        | Grade(Alphabetical input only capital maxlength 2) 
-                        | Grade Points(decimal input maxlength 5 <including decimal point>) 
-                        | Class(should have only 3 options 1st, 2nd & 3rd)",
-            "score":"Text can consist digits or Text based on scoreUnits <maxlength and inputType to be followed according to scoreUnit>",
-            "stream":"Text , applicable only from Junior college level max 60 charachters"
-        }
-    ],
-    "wrkExprnc":[
-        {
-            "organisation":"text name of the organiztion max 60 charachters ",
-            "jobTitle":"text designation max 60 charachters",
-            "workDscrptn":"text description of the nature of job max 240 charachters",
-            "startDate":"MON/YYYY",
-            "endDate":"MON/YYYY",
-            "current":"true | false < not applicable if endDate is mentioned(i.e if current is true, endDate must be null)>"
-        }
-    ],
-    "projects":[
-        {
-            "title":"text title of the project max 120 charachters",
-            "stream":"text generalised line of work involved in the project max 60 charachters",
-            "dscrptn":"text description of the project max 240 charachters",
-            "year":"YYYY Year when project was undertaken",
-            "current":"true | false ",
-            "projUrl":"url link of the project website or resources or products",
-            "collaborator":[
-                {
-                    "role":"text role of this user max 20 charachters",
-                    "userId":"UserId from users"
-                }
-            ],
-            "organisation":"text name of the related organiztion/publisher if any(optional) max 60 charachters " 
-        }
-    ],
-    "achievement":[
-        {
-            "title":"text title of the achievement max 50 charachters",
-            "issuer":"text name of organization/competition/authority max 50 charachters",
-            "date":"MON/YYYY when was it awarded/achieved",
-            "url":"link to authentic site  where this achievment is listed",
-            "dscrptn":"text description of the achievment maxl 240 charachters"
-        }
-    ],
-    "hobbies":["array", "of strings", "50 chars max each string","list of hobbies and Interests", "Heading of this field : Hobbies & Interests"],
-    "skills":[
-        {
-            "skillCat":"category of skill from the skills.json array",
-            "skillName":"name of skill from the skills.json array",
-            "rating":"0-5"
-        }
-    ]
+    "preferedCities": [{
+        "state": "Name of state for city from cities.json",
+        "city": "Name of city from cities.json"
+    }],
+    "socialProfiles": [{
+        "platform": " My Website | facebook | instagram | twitter | snapchat | youtube | quora | blog | github | behance | dribble | linkedin | wikipedia | other",
+        "link": "url text /*note : any platform can be linked only once*/"
+    }],
+    "education": [{
+        "level": "School | High School/Junior College | Degree College | Post Graduation | Diploma | Ph.D | Certification/Professional Courses ",
+        "insitituteName": "Name of School/College/institute/organization max 60 charachters",
+        "board": "Name of board/university max 60 charachters",
+        "startYear": "Year of commencement",
+        "endYear": "YYYY Year of completion",
+        "current": "true | false < not applicable if endYear is mentioned(i.e if current is true, endYear must be null)>",
+        "scoreUnit": "Percent(decimal input maxlength 6 <including decimal point>)  | Grade(Alphabetical input only capital maxlength 2) | Grade Points(decimal input maxlength 5 < including decimal point > ) | Class(should have only 3 options 1 st, 2 nd & 3 rd)",
+        "score": "Text can consist digits or Text based on scoreUnits <maxlength and inputType to be followed according to scoreUnit>",
+        "stream": [{
+            "course": "Other",
+            "spec": "other",
+            "level": "UG"
+        }]
+    }],
+    "wrkExprnc": [{
+        "organisation": "text name of the organiztion max 60 charachters ",
+        "jobTitle": "text designation max 60 charachters",
+        "workDscrptn": "text description of the nature of job max 240 charachters",
+        "startDate": "MON/YYYY",
+        "endDate": "MON/YYYY",
+        "current": "true | false < not applicable if endDate is mentioned(i.e if current is true, endDate must be null)>"
+    }],
+    "projects": [{
+        "title": "text title of the project max 120 charachters",
+        "stream": "text generalised line of work involved in the project max 60 charachters",
+        "dscrptn": "text description of the project max 240 charachters",
+        "year": "YYYY Year when project was undertaken",
+        "current": "true | false ",
+        "projUrl": "url link of the project website or resources or products",
+        "collaborator": [{
+            "role": "text role of this user max 20 charachters",
+            "userId": "UserId from users"
+        }],
+        "organisation": "text name of the related organiztion/publisher if any(optional) max 60 charachters ",
+        "skillsUsed": [{
+            "skillCat": "category of skill from the skills.json array",
+            "skillName": "name of skill from the skills.json array",
+            "rating": "0-5"
+        }]
+    }],
+    "achievement": [{
+        "title": "text title of the achievement max 50 charachters",
+        "issuer": "text name of organization/competition/authority max 50 charachters",
+        "date": "MON/YYYY when was it awarded/achieved",
+        "url": "link to authentic site  where this achievment is listed",
+        "dscrptn": "text description of the achievment maxl 240 charachters"
+    }],
+    "hobbies": ["array", "of strings", "50 chars max each string", "list of hobbies and Interests", "Heading of this field : Hobbies & Interests"],
+    "skills": [{
+        "skillCat": "category of skill from the skills.json array",
+        "skillName": "name of skill from the skills.json array",
+        "rating": "0-5"
+    }]
 
 }
